@@ -1,14 +1,9 @@
-This is only a test
-===================
-
-Learning Github is fun.
-
 Why Cats are better than dogs
 =============================
 
-1) Quieter
-2) Softer
-3) Better at naps
+- Quieter
+- Softer
+- Better at naps
 
 Sandwiches
 ==========
